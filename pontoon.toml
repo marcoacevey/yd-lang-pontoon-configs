@@ -1,11 +1,3 @@
 [[paths]]
 l10n = "src/assets/{locale}/*.json"
-locales = [
-  "en-us",
-  "en-ca",
-  "es",
-  "pt-br",
-  "pt",
-  "fr-ca",
-]
 reference = "src/assets/pt-BR/*.json"
