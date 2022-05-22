@@ -1,3 +1,11 @@
 [[paths]]
 l10n = "src/i18n/{locale}/*.json"
 reference = "src/i18n/pt-BR/*.json"
+locales = [
+  "en-us",
+  "en-ca",
+  "es",
+  "pt-br",
+  "pt",
+  "fr-ca",
+]
